@@ -1,2 +1,2 @@
-# teste_github_certificacao
-curso de github DIO
+# Teste_GITHUB_Certificação
+curso de GITHUB DIO
